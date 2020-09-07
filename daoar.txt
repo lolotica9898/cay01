@@ -1,0 +1,489 @@
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx01 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx02 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx04 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx05 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx06 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx07 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx08 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx09 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx10 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx11 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx12 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx13 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx14 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx15 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx16 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx17 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx18 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx19 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx20 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx21 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx22 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx23 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx24 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx25 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx26 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx27 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx28 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx29 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx30 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx31 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx32 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx33 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx34 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx35 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx36 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx37 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx38 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx39 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx40 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx41 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx42 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx43 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx44 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx45 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx46 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx47 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx48 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx49 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx50 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx51 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx52 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx53 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx54 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx55 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx56 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx57 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx58 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx59 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx60 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx61 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx62 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx63 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx70 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx71 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx72 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx73 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx74 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx75 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait 
+
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx79 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx80 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}' --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx81 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}' --no-wait
+
+
+
+
+
+
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx94 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx95 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx96 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx97 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'  --no-wait
+
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx98 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}' --no-wait
+az vm extension set \
+--resource-group NetworkWatcherRG \
+--vm-name mx99 \
+--name customScript \
+--publisher Microsoft.Azure.Extensions \
+--settings '{"fileUris": ["https://raw.githubusercontent.com/lolotica9898/tieucay.sh/master/tieucay.sh"],"commandToExecute": "./tieucay.sh"}'
+
+
+
+
+
+
+
+
+
+
